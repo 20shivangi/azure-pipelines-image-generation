@@ -140,7 +140,8 @@
             "scripts":[
                 "{{template_dir}}/scripts/installers/android.sh",
                 "{{template_dir}}/scripts/helpers/containercache.sh",
-                "{{template_dir}}/scripts/installers/hosted-tool-cache.sh"
+                "{{template_dir}}/scripts/installers/hosted-tool-cache.sh",
+                "{{template_dir}}/scripts/installers/azpowershell.sh"
             ],
             "environment_vars": [
                 "METADATA_FILE={{user `metadata_file`}}",
