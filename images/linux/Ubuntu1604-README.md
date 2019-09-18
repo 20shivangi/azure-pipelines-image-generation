@@ -198,10 +198,11 @@ the
 - Android NDK 20.0.5594570
 - Android ConstraintLayout 1.0.2
 - Android ConstraintLayour 1.0.1
-- Az Module (1.0.0)
-- Az Module (1.6.0)
-- Az Module (2.3.2)
-- Az Module (2.6.0)
+- Az Module (available through the [Use AzurePowerShellV4 Version](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks/AzurePowerShellV4) task)
+  - Az Module 1.0.0 (This version is saved but not installed _Location:_ /usr/share/az_1.0.0/Az/1.0.0/Az.psd1)
+  - Az Module 1.6.0 (This version is saved but not installed _Location:_ /usr/share/az_1.6.0/Az/1.6.0/Az.psd1)
+  - Az Module 2.3.2 (This version is saved but not installed _Location:_ /usr/share/az_2.3.2/Az/2.3.2/Az.psd1)
+  - Az Module 2.6.0 (This version is saved but not installed _Location:_ /usr/share/az_2.6.0/Az/2.6.0/Az.psd1)
 - Cached container images
   - jekyll/builder:latest (Digest: sha256:f4746468ab68c88643fed4e41683b9ffe671a3f4ec8e2d3ed99b4f257eb7af40)
   - node:12 (Digest: sha256:4bb14d2108495d565050a50ed624874dbbb17552ec4adb6f396f9edcdcbcd8d4)
