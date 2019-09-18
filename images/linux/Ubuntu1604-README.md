@@ -198,7 +198,7 @@ the
 - Android NDK 20.0.5594570
 - Android ConstraintLayout 1.0.2
 - Android ConstraintLayour 1.0.1
-- Az Module (available through the [Use AzurePowerShellV4 Version](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks/AzurePowerShellV4) task)
+- Az Module (available through the [Use AzurePowerShellV4 Version](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-powershell?view=azure-devops) task)
   - Az Module 1.0.0 (This version is saved but not installed _Location:_ /usr/share/az_1.0.0/Az/1.0.0/Az.psd1)
   - Az Module 1.6.0 (This version is saved but not installed _Location:_ /usr/share/az_1.6.0/Az/1.6.0/Az.psd1)
   - Az Module 2.3.2 (This version is saved but not installed _Location:_ /usr/share/az_2.3.2/Az/2.3.2/Az.psd1)
